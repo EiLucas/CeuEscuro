@@ -1,0 +1,16 @@
+C:\Users\lucas.aconceicao1\Desktop\CeuEscuro\CeuEscuro.DTO\bin\Debug\CeuEscuro.DTO.dll
+C:\Users\lucas.aconceicao1\Desktop\CeuEscuro\CeuEscuro.DTO\bin\Debug\CeuEscuro.DTO.pdb
+C:\Users\lucas.aconceicao1\Desktop\CeuEscuro\CeuEscuro.DTO\obj\Debug\CeuEscuro.DTO.csprojAssemblyReference.cache
+C:\Users\lucas.aconceicao1\Desktop\CeuEscuro\CeuEscuro.DTO\obj\Debug\CeuEscuro.DTO.dll
+C:\Users\lucas.aconceicao1\Desktop\CeuEscuro\CeuEscuro.DTO\obj\Debug\CeuEscuro.DTO.pdb
+C:\Users\lucas.aconceicao1\Desktop\Lucas\CeuEscuro\CeuEscuro.DTO\bin\Debug\CeuEscuro.DTO.dll
+C:\Users\lucas.aconceicao1\Desktop\Lucas\CeuEscuro\CeuEscuro.DTO\bin\Debug\CeuEscuro.DTO.pdb
+C:\Users\lucas.aconceicao1\Desktop\Lucas\CeuEscuro\CeuEscuro.DTO\obj\Debug\CeuEscuro.DTO.csprojAssemblyReference.cache
+C:\Users\lucas.aconceicao1\Desktop\Lucas\CeuEscuro\CeuEscuro.DTO\obj\Debug\CeuEscuro.DTO.dll
+C:\Users\lucas.aconceicao1\Desktop\Lucas\CeuEscuro\CeuEscuro.DTO\obj\Debug\CeuEscuro.DTO.pdb
+C:\Users\Lucas\Desktop\Lucas\Senac\SENAC Desenvolvimento\T.I UC-12\CeuEscuro\CeuEscuro.DTO\bin\Debug\CeuEscuro.DTO.dll
+C:\Users\Lucas\Desktop\Lucas\Senac\SENAC Desenvolvimento\T.I UC-12\CeuEscuro\CeuEscuro.DTO\bin\Debug\CeuEscuro.DTO.pdb
+C:\Users\Lucas\Desktop\Lucas\Senac\SENAC Desenvolvimento\T.I UC-12\CeuEscuro\CeuEscuro.DTO\obj\Debug\CeuEscuro.DTO.csprojAssemblyReference.cache
+C:\Users\Lucas\Desktop\Lucas\Senac\SENAC Desenvolvimento\T.I UC-12\CeuEscuro\CeuEscuro.DTO\obj\Debug\CeuEscuro.DTO.csproj.CoreCompileInputs.cache
+C:\Users\Lucas\Desktop\Lucas\Senac\SENAC Desenvolvimento\T.I UC-12\CeuEscuro\CeuEscuro.DTO\obj\Debug\CeuEscuro.DTO.dll
+C:\Users\Lucas\Desktop\Lucas\Senac\SENAC Desenvolvimento\T.I UC-12\CeuEscuro\CeuEscuro.DTO\obj\Debug\CeuEscuro.DTO.pdb

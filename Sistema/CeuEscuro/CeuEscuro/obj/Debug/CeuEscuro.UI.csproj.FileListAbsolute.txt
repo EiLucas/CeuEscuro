@@ -1,0 +1,64 @@
+C:\Users\lucas.aconceicao1\Desktop\CeuEscuro\CeuEscuro\bin\Debug\CeuEscuro.exe.config
+C:\Users\lucas.aconceicao1\Desktop\CeuEscuro\CeuEscuro\bin\Debug\CeuEscuro.exe
+C:\Users\lucas.aconceicao1\Desktop\CeuEscuro\CeuEscuro\bin\Debug\CeuEscuro.pdb
+C:\Users\lucas.aconceicao1\Desktop\CeuEscuro\CeuEscuro\obj\Debug\CeuEscuro.UI.csprojAssemblyReference.cache
+C:\Users\lucas.aconceicao1\Desktop\CeuEscuro\CeuEscuro\obj\Debug\CeuEscuro.Login.resources
+C:\Users\lucas.aconceicao1\Desktop\CeuEscuro\CeuEscuro\obj\Debug\CeuEscuro.Properties.Resources.resources
+C:\Users\lucas.aconceicao1\Desktop\CeuEscuro\CeuEscuro\obj\Debug\CeuEscuro.UI.csproj.GenerateResource.cache
+C:\Users\lucas.aconceicao1\Desktop\CeuEscuro\CeuEscuro\obj\Debug\CeuEscuro.exe
+C:\Users\lucas.aconceicao1\Desktop\CeuEscuro\CeuEscuro\obj\Debug\CeuEscuro.pdb
+C:\Users\lucas.aconceicao1\Desktop\CeuEscuro\CeuEscuro\obj\Debug\CeuEscuro.MainADM.resources
+C:\Users\lucas.aconceicao1\Desktop\CeuEscuro\CeuEscuro\obj\Debug\CeuEscuro.MainUSER.resources
+C:\Users\lucas.aconceicao1\Desktop\CeuEscuro\CeuEscuro\bin\Debug\CeuEscuro.BLL.dll
+C:\Users\lucas.aconceicao1\Desktop\CeuEscuro\CeuEscuro\bin\Debug\CeuEscuro.DTO.dll
+C:\Users\lucas.aconceicao1\Desktop\CeuEscuro\CeuEscuro\bin\Debug\CeuEscuro.BLL.pdb
+C:\Users\lucas.aconceicao1\Desktop\CeuEscuro\CeuEscuro\bin\Debug\CeuEscuro.DTO.pdb
+C:\Users\lucas.aconceicao1\Desktop\CeuEscuro\CeuEscuro\obj\Debug\CeuEscuro.UI.csproj.CopyComplete
+C:\Users\lucas.aconceicao1\Desktop\CeuEscuro\CeuEscuro\bin\Debug\CeuEscuro.DAL.dll
+C:\Users\lucas.aconceicao1\Desktop\CeuEscuro\CeuEscuro\bin\Debug\CeuEscuro.DAL.pdb
+C:\Users\lucas.aconceicao1\Desktop\CeuEscuro\CeuEscuro\obj\Debug\CeuEscuro.Cadastrar.resources
+C:\Users\lucas.aconceicao1\Desktop\Lucas\CeuEscuro\CeuEscuro\bin\Debug\CeuEscuro.exe.config
+C:\Users\lucas.aconceicao1\Desktop\Lucas\CeuEscuro\CeuEscuro\bin\Debug\CeuEscuro.exe
+C:\Users\lucas.aconceicao1\Desktop\Lucas\CeuEscuro\CeuEscuro\bin\Debug\CeuEscuro.pdb
+C:\Users\lucas.aconceicao1\Desktop\Lucas\CeuEscuro\CeuEscuro\bin\Debug\CeuEscuro.BLL.dll
+C:\Users\lucas.aconceicao1\Desktop\Lucas\CeuEscuro\CeuEscuro\bin\Debug\CeuEscuro.DTO.dll
+C:\Users\lucas.aconceicao1\Desktop\Lucas\CeuEscuro\CeuEscuro\bin\Debug\CeuEscuro.DAL.dll
+C:\Users\lucas.aconceicao1\Desktop\Lucas\CeuEscuro\CeuEscuro\bin\Debug\CeuEscuro.BLL.pdb
+C:\Users\lucas.aconceicao1\Desktop\Lucas\CeuEscuro\CeuEscuro\bin\Debug\CeuEscuro.DTO.pdb
+C:\Users\lucas.aconceicao1\Desktop\Lucas\CeuEscuro\CeuEscuro\bin\Debug\CeuEscuro.DAL.pdb
+C:\Users\lucas.aconceicao1\Desktop\Lucas\CeuEscuro\CeuEscuro\obj\Debug\CeuEscuro.UI.csprojAssemblyReference.cache
+C:\Users\lucas.aconceicao1\Desktop\Lucas\CeuEscuro\CeuEscuro\obj\Debug\CeuEscuro.Cadastrar.resources
+C:\Users\lucas.aconceicao1\Desktop\Lucas\CeuEscuro\CeuEscuro\obj\Debug\CeuEscuro.Login.resources
+C:\Users\lucas.aconceicao1\Desktop\Lucas\CeuEscuro\CeuEscuro\obj\Debug\CeuEscuro.MainADM.resources
+C:\Users\lucas.aconceicao1\Desktop\Lucas\CeuEscuro\CeuEscuro\obj\Debug\CeuEscuro.MainUSER.resources
+C:\Users\lucas.aconceicao1\Desktop\Lucas\CeuEscuro\CeuEscuro\obj\Debug\CeuEscuro.Properties.Resources.resources
+C:\Users\lucas.aconceicao1\Desktop\Lucas\CeuEscuro\CeuEscuro\obj\Debug\CeuEscuro.UI.csproj.GenerateResource.cache
+C:\Users\lucas.aconceicao1\Desktop\Lucas\CeuEscuro\CeuEscuro\obj\Debug\CeuEscuro.UI.csproj.CopyComplete
+C:\Users\lucas.aconceicao1\Desktop\Lucas\CeuEscuro\CeuEscuro\obj\Debug\CeuEscuro.exe
+C:\Users\lucas.aconceicao1\Desktop\Lucas\CeuEscuro\CeuEscuro\obj\Debug\CeuEscuro.pdb
+C:\Users\lucas.aconceicao1\Desktop\Lucas\CeuEscuro\CeuEscuro\obj\Debug\CeuEscuro.Editar.resources
+C:\Users\lucas.aconceicao1\Desktop\Lucas\CeuEscuro\CeuEscuro\obj\Debug\CeuEscuro.Listar.resources
+C:\Users\lucas.aconceicao1\Desktop\Lucas\CeuEscuro\CeuEscuro\obj\Debug\CeuEscuro.Splash.resources
+C:\Users\Lucas\Desktop\Lucas\Senac\SENAC Desenvolvimento\T.I UC-12\CeuEscuro\CeuEscuro\bin\Debug\CeuEscuro.exe.config
+C:\Users\Lucas\Desktop\Lucas\Senac\SENAC Desenvolvimento\T.I UC-12\CeuEscuro\CeuEscuro\bin\Debug\CeuEscuro.exe
+C:\Users\Lucas\Desktop\Lucas\Senac\SENAC Desenvolvimento\T.I UC-12\CeuEscuro\CeuEscuro\bin\Debug\CeuEscuro.pdb
+C:\Users\Lucas\Desktop\Lucas\Senac\SENAC Desenvolvimento\T.I UC-12\CeuEscuro\CeuEscuro\bin\Debug\CeuEscuro.BLL.dll
+C:\Users\Lucas\Desktop\Lucas\Senac\SENAC Desenvolvimento\T.I UC-12\CeuEscuro\CeuEscuro\bin\Debug\CeuEscuro.DTO.dll
+C:\Users\Lucas\Desktop\Lucas\Senac\SENAC Desenvolvimento\T.I UC-12\CeuEscuro\CeuEscuro\bin\Debug\CeuEscuro.DAL.dll
+C:\Users\Lucas\Desktop\Lucas\Senac\SENAC Desenvolvimento\T.I UC-12\CeuEscuro\CeuEscuro\bin\Debug\CeuEscuro.BLL.pdb
+C:\Users\Lucas\Desktop\Lucas\Senac\SENAC Desenvolvimento\T.I UC-12\CeuEscuro\CeuEscuro\bin\Debug\CeuEscuro.DTO.pdb
+C:\Users\Lucas\Desktop\Lucas\Senac\SENAC Desenvolvimento\T.I UC-12\CeuEscuro\CeuEscuro\bin\Debug\CeuEscuro.DAL.pdb
+C:\Users\Lucas\Desktop\Lucas\Senac\SENAC Desenvolvimento\T.I UC-12\CeuEscuro\CeuEscuro\obj\Debug\CeuEscuro.UI.csprojAssemblyReference.cache
+C:\Users\Lucas\Desktop\Lucas\Senac\SENAC Desenvolvimento\T.I UC-12\CeuEscuro\CeuEscuro\obj\Debug\CeuEscuro.Cadastrar.resources
+C:\Users\Lucas\Desktop\Lucas\Senac\SENAC Desenvolvimento\T.I UC-12\CeuEscuro\CeuEscuro\obj\Debug\CeuEscuro.Editar.resources
+C:\Users\Lucas\Desktop\Lucas\Senac\SENAC Desenvolvimento\T.I UC-12\CeuEscuro\CeuEscuro\obj\Debug\CeuEscuro.Listar.resources
+C:\Users\Lucas\Desktop\Lucas\Senac\SENAC Desenvolvimento\T.I UC-12\CeuEscuro\CeuEscuro\obj\Debug\CeuEscuro.Login.resources
+C:\Users\Lucas\Desktop\Lucas\Senac\SENAC Desenvolvimento\T.I UC-12\CeuEscuro\CeuEscuro\obj\Debug\CeuEscuro.MainADM.resources
+C:\Users\Lucas\Desktop\Lucas\Senac\SENAC Desenvolvimento\T.I UC-12\CeuEscuro\CeuEscuro\obj\Debug\CeuEscuro.MainUSER.resources
+C:\Users\Lucas\Desktop\Lucas\Senac\SENAC Desenvolvimento\T.I UC-12\CeuEscuro\CeuEscuro\obj\Debug\CeuEscuro.Properties.Resources.resources
+C:\Users\Lucas\Desktop\Lucas\Senac\SENAC Desenvolvimento\T.I UC-12\CeuEscuro\CeuEscuro\obj\Debug\CeuEscuro.Splash.resources
+C:\Users\Lucas\Desktop\Lucas\Senac\SENAC Desenvolvimento\T.I UC-12\CeuEscuro\CeuEscuro\obj\Debug\CeuEscuro.UI.csproj.GenerateResource.cache
+C:\Users\Lucas\Desktop\Lucas\Senac\SENAC Desenvolvimento\T.I UC-12\CeuEscuro\CeuEscuro\obj\Debug\CeuEscuro.UI.csproj.CoreCompileInputs.cache
+C:\Users\Lucas\Desktop\Lucas\Senac\SENAC Desenvolvimento\T.I UC-12\CeuEscuro\CeuEscuro\obj\Debug\CeuEscuro.UI.csproj.CopyComplete
+C:\Users\Lucas\Desktop\Lucas\Senac\SENAC Desenvolvimento\T.I UC-12\CeuEscuro\CeuEscuro\obj\Debug\CeuEscuro.exe
+C:\Users\Lucas\Desktop\Lucas\Senac\SENAC Desenvolvimento\T.I UC-12\CeuEscuro\CeuEscuro\obj\Debug\CeuEscuro.pdb

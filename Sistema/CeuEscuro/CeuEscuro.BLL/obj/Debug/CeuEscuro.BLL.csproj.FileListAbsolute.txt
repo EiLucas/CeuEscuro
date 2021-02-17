@@ -1,0 +1,31 @@
+C:\Users\lucas.aconceicao1\Desktop\CeuEscuro\CeuEscuro.BLL\bin\Debug\CeuEscuro.BLL.dll
+C:\Users\lucas.aconceicao1\Desktop\CeuEscuro\CeuEscuro.BLL\bin\Debug\CeuEscuro.BLL.pdb
+C:\Users\lucas.aconceicao1\Desktop\CeuEscuro\CeuEscuro.BLL\obj\Debug\CeuEscuro.BLL.csprojAssemblyReference.cache
+C:\Users\lucas.aconceicao1\Desktop\CeuEscuro\CeuEscuro.BLL\obj\Debug\CeuEscuro.BLL.dll
+C:\Users\lucas.aconceicao1\Desktop\CeuEscuro\CeuEscuro.BLL\obj\Debug\CeuEscuro.BLL.pdb
+C:\Users\lucas.aconceicao1\Desktop\CeuEscuro\CeuEscuro.BLL\bin\Debug\CeuEscuro.DAL.dll
+C:\Users\lucas.aconceicao1\Desktop\CeuEscuro\CeuEscuro.BLL\bin\Debug\CeuEscuro.DTO.dll
+C:\Users\lucas.aconceicao1\Desktop\CeuEscuro\CeuEscuro.BLL\bin\Debug\CeuEscuro.DAL.pdb
+C:\Users\lucas.aconceicao1\Desktop\CeuEscuro\CeuEscuro.BLL\bin\Debug\CeuEscuro.DTO.pdb
+C:\Users\lucas.aconceicao1\Desktop\CeuEscuro\CeuEscuro.BLL\obj\Debug\CeuEscuro.BLL.csproj.CopyComplete
+C:\Users\lucas.aconceicao1\Desktop\Lucas\CeuEscuro\CeuEscuro.BLL\bin\Debug\CeuEscuro.BLL.dll
+C:\Users\lucas.aconceicao1\Desktop\Lucas\CeuEscuro\CeuEscuro.BLL\bin\Debug\CeuEscuro.BLL.pdb
+C:\Users\lucas.aconceicao1\Desktop\Lucas\CeuEscuro\CeuEscuro.BLL\bin\Debug\CeuEscuro.DAL.dll
+C:\Users\lucas.aconceicao1\Desktop\Lucas\CeuEscuro\CeuEscuro.BLL\bin\Debug\CeuEscuro.DTO.dll
+C:\Users\lucas.aconceicao1\Desktop\Lucas\CeuEscuro\CeuEscuro.BLL\bin\Debug\CeuEscuro.DAL.pdb
+C:\Users\lucas.aconceicao1\Desktop\Lucas\CeuEscuro\CeuEscuro.BLL\bin\Debug\CeuEscuro.DTO.pdb
+C:\Users\lucas.aconceicao1\Desktop\Lucas\CeuEscuro\CeuEscuro.BLL\obj\Debug\CeuEscuro.BLL.csprojAssemblyReference.cache
+C:\Users\lucas.aconceicao1\Desktop\Lucas\CeuEscuro\CeuEscuro.BLL\obj\Debug\CeuEscuro.BLL.csproj.CopyComplete
+C:\Users\lucas.aconceicao1\Desktop\Lucas\CeuEscuro\CeuEscuro.BLL\obj\Debug\CeuEscuro.BLL.dll
+C:\Users\lucas.aconceicao1\Desktop\Lucas\CeuEscuro\CeuEscuro.BLL\obj\Debug\CeuEscuro.BLL.pdb
+C:\Users\Lucas\Desktop\Lucas\Senac\SENAC Desenvolvimento\T.I UC-12\CeuEscuro\CeuEscuro.BLL\bin\Debug\CeuEscuro.BLL.dll
+C:\Users\Lucas\Desktop\Lucas\Senac\SENAC Desenvolvimento\T.I UC-12\CeuEscuro\CeuEscuro.BLL\bin\Debug\CeuEscuro.BLL.pdb
+C:\Users\Lucas\Desktop\Lucas\Senac\SENAC Desenvolvimento\T.I UC-12\CeuEscuro\CeuEscuro.BLL\bin\Debug\CeuEscuro.DAL.dll
+C:\Users\Lucas\Desktop\Lucas\Senac\SENAC Desenvolvimento\T.I UC-12\CeuEscuro\CeuEscuro.BLL\bin\Debug\CeuEscuro.DTO.dll
+C:\Users\Lucas\Desktop\Lucas\Senac\SENAC Desenvolvimento\T.I UC-12\CeuEscuro\CeuEscuro.BLL\bin\Debug\CeuEscuro.DAL.pdb
+C:\Users\Lucas\Desktop\Lucas\Senac\SENAC Desenvolvimento\T.I UC-12\CeuEscuro\CeuEscuro.BLL\bin\Debug\CeuEscuro.DTO.pdb
+C:\Users\Lucas\Desktop\Lucas\Senac\SENAC Desenvolvimento\T.I UC-12\CeuEscuro\CeuEscuro.BLL\obj\Debug\CeuEscuro.BLL.csprojAssemblyReference.cache
+C:\Users\Lucas\Desktop\Lucas\Senac\SENAC Desenvolvimento\T.I UC-12\CeuEscuro\CeuEscuro.BLL\obj\Debug\CeuEscuro.BLL.csproj.CoreCompileInputs.cache
+C:\Users\Lucas\Desktop\Lucas\Senac\SENAC Desenvolvimento\T.I UC-12\CeuEscuro\CeuEscuro.BLL\obj\Debug\CeuEscuro.BLL.csproj.CopyComplete
+C:\Users\Lucas\Desktop\Lucas\Senac\SENAC Desenvolvimento\T.I UC-12\CeuEscuro\CeuEscuro.BLL\obj\Debug\CeuEscuro.BLL.dll
+C:\Users\Lucas\Desktop\Lucas\Senac\SENAC Desenvolvimento\T.I UC-12\CeuEscuro\CeuEscuro.BLL\obj\Debug\CeuEscuro.BLL.pdb
